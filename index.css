@@ -1,0 +1,23 @@
+body {
+	background-color: lightblue;
+	padding: 90px;
+	text-align: center;
+	margin: auto;
+	max-width: 700px;
+}
+
+.tweet {
+	align-self: center;
+	font-family:sans-serif;
+	margin: 20px;
+	border: 2px solid blue;
+    border-radius: 5px;
+}
+
+.visible{
+	display:block;
+}
+
+.gone{
+	display:none;
+}
